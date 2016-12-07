@@ -37,3 +37,47 @@ Chapter 1
     + Lisp: name things with define
 
     (define size 2)
+
+    + interpreter associates VALUE 2 with NAME size
+
+    size ;=> 2
+
+    (* 5 size) ;=> 10
+
+    (define pi 3.14159)
+    (define radius 10)
+
+    (* pi (* radius radius)) ;=> 314.159
+
+    (define circumference (* 2 pi radius))
+
+    circumference ;=> 62.8318
+
+    + Define is our language’s simplest means of abstraction, for it allows us to use simple names to refer to the results of compound operations, such as the circumference computed above.
+
+    + complex programs are constructed by building, step by step, computational objects of increasing complexity
+
+    + step-by-step: name-object associations can be created incrementally in successive interactions
+
+    +Lisp program usually consists of a large number of relatively simple procedures
+
+    + interpreter keeps name-object pairs in GLOBAL ENVIRONMENT (memory)
+
+    RULE
+    To evaluate a combination, do the following:
+
+	Evaluate the subexpressions of the combination.
+	Apply the procedure that is the value of the leftmost subexpression (the operator) to the arguments that are the values of the other subexpressions (the operands).
+
+	+ tree accumulation as part of eval rule
+
+
+
+        390______
+       /  \      \
+      |   |       15     
+      *  26   / \ \ \
+       / | \  + 3 5 7
+       * 4 6
+       
+
