@@ -1,0 +1,7 @@
+I downloaded this freely from:
+
+http://web.mit.edu/alexmv/6.037/sicp.pdf
+
+Structure and Interpretation of Computer Programs by Harold Abelson and Gerald Jay Sussman 
+with Julie Sussman is licensed undera Creative Commons Attribution-ShareAlike 4.0 International 
+License by the MIT Press.
