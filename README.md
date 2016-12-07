@@ -1,3 +1,4 @@
+![alt tag](https://github.com/cjledbetter/sipc/blob/master/img/final728-lambda.svg)
 # SIPC
 ### **Structure and Interpretation of Computer Programs (SIPC) Notes**       
                                                                              
