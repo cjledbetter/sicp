@@ -4,13 +4,10 @@
 ## 	_Focus_
 **This is a personal git repository that holds**
 
-    **1. notes**
-
-    **2. code snippets**
-
-    **3. embedded video links**
-
-    **4. other errata pertaining to SIPC**
+    **1.** **notes**
+    **2.** **code snippets**
+    **3.** **embedded video links**
+    **4.** **other errata pertaining to SIPC**
 
 ### _Organization Principles_
 Each section (20) contains the SIPC video download along with
@@ -22,10 +19,12 @@ This repository is used to stay organized using multiple devices
 to study this material.
 
 #### _Reference_
-[Structure and Interpretation of Computer Programs] (https://mitpress.mit.edu/sicp/ "SICP Homepage")
-[Github HTML Project] (https://github.com/sarabander/sicp "HTML Project")
-[Github Latex Project] (https://github.com/sarabander/sicp-pdf "Latex Project")
+
++ [Structure and Interpretation of Computer Programs] (https://mitpress.mit.edu/sicp/ "SICP Homepage")
++ [Github HTML Project] (https://github.com/sarabander/sicp "HTML Project")
++ [Github Latex Project] (https://github.com/sarabander/sicp-pdf "Latex Project")
 
 #### _Quick Links_
-[SIPC Book](http://sarabander.github.io/sicp/ "SICP BOOK")
-[SIPC VIDEO LECTURE SERIES AT HP](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/ "SICP VIDEO")
+
++ [SIPC Book](http://sarabander.github.io/sicp/ "SICP BOOK")
++ [SIPC VIDEO LECTURE SERIES AT HP](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/ "SICP VIDEO")
