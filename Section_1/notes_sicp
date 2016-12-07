@@ -29,3 +29,11 @@ Chapter 1
    (+ (- 10 7)
       6)) ;=> 57
  
+
+    + the interpreter runs in a read-eval-print loop (repl)
+1.1.2
+    + critical point: the name identifies a variable whose value is the object
+
+    + Lisp: name things with define
+
+    (define size 2)
