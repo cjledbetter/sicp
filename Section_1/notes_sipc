@@ -1,0 +1,31 @@
+Chapter 1
+1. Only dealing w/ numbers to focus on rules for building procedures
+2. Expressions
+  a. Type an expression => interpreter evaluates expression
+   + one type of primitive  expression is num
+    - 486 ;=> 486
+   + application of primitive procedure (e.g. * - +) to two primitives makes compound expression
+    - (* 5 4) ;=> 20
+  |prefix notation
+  |operand  operators
+        \   / /
+        (* 5 4)
+   + The value of a combination is obtained by applying the procedure specified 
+   by the operator to the arguments that are the values of the operands.
+
+   (+ 21 35 12 7) ;=> 75 can use arbitrary  # of args
+
+   + the entire combination is delimited by the parentheses
+
+   (+ (* 3 5) (- 10 6)) ;=>19
+
+   (+ (* 3 (+ (* 2 4) (+ 3 5))) (+ (- 10 7) 6)) ;=> 57
+   -or-
+
+   + pretty-printing
+   (+ (* 3
+      (+ (* 2 4)
+         (+ 3 5)))
+   (+ (- 10 7)
+      6)) ;=> 57
+ 
