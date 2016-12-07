@@ -1,4 +1,4 @@
-![alt tag](https://github.com/cjledbetter/sipc/blob/master/img/final728-lambdars1.jpg)
+<img align="right" src="https://github.com/cjledbetter/sipc/blob/master/img/final728-lambdars1.jpg">
 # SIPC
 ### **Structure and Interpretation of Computer Programs (SIPC) Notes**       
                                                                              
