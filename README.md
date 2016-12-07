@@ -1,5 +1,5 @@
 <img align="right" src="https://github.com/cjledbetter/sipc/blob/master/img/final728-lambdars1.jpg">
-# SIPC
+# SICP
 ### **Structure and Interpretation of Computer Programs (SIPC) Notes**       
                                                                              
 ## 	_Focus_                                                              
