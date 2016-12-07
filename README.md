@@ -1,19 +1,19 @@
-Alt-H1 SIPC
+# SIPC
 ### **Structure and Interpretation of Computer Programs (SIPC) Notes**
 
 ## 	_Focus_
 **This is a personal git repository that holds**
-    *  notes
-    * code snippets
-    * embedded video links
-     * other errata pertaining to SIPC
+    **1. notes**
+   ** 2. code snippets**
+    **3. embedded video links**
+    **4. other errata pertaining to SIPC**
 
-### Organization Principles
+### _Organization Principles_
 Each section (20) contains the SIPC video download along with
 code stubs and notes pertaining to the video lectures.  This
 may also include stubs and notes from the companion book.
 
-#### Use
+### _Use_
 This repository is used to stay organized using multiple devices
 to study this material.
 
