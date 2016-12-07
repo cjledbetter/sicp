@@ -23,3 +23,8 @@ to study this material.
 
 #### _Reference_
 [Structure and Interpretation of Computer Programs] (https://mitpress.mit.edu/sicp/ "SICP Homepage")
+[Github HTML Project] (https://github.com/sarabander/sicp "HTML Project")
+[Github Latex Project] (https://github.com/sarabander/sicp-pdf "Latex Project")
+
+#### _HTML Book Link_
+[SIPC Book](http://sarabander.github.io/sicp/ "SICP BOOK")
