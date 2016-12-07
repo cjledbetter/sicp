@@ -4,10 +4,10 @@
 ## 	_Focus_
 **This is a personal git repository that holds**
 
-    1. **notes**
-    2. **code snippets**
-    3. **embedded video links**
-    4. **other errata pertaining to SIPC**
+    1. notes
+    2. code snippets
+    3. embedded video links**
+    4. other errata pertaining to SIPC
 
 ### _Organization Principles_
 Each section (20) contains the SIPC video download along with
