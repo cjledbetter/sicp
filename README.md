@@ -7,3 +7,6 @@ errata pertaining to SIPC.
 Each section (20) contains the SIPC video download along with
 code stubs and notes pertaining to the video lectures.  This
 may also include stubs and notes from the companion book.
+
+This repository is used to stay organized using multiple devices
+to study this material.
