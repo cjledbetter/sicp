@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/cjledbetter/sipc/blob/master/img/final728-lambdars1.jpg">
 # SICP
-### **Structure and Interpretation of Computer Programs (SIPC) Notes**       
+### **Structure and Interpretation of Computer Programs (SICP) Notes**       
                                                                              
 ## 	_Focus_                                                              
 **This is a personal git repository that holds**
@@ -11,7 +11,7 @@
     4. other errata pertaining to SIPC
                                                                              
 ### _Organization Principles_                                                
-Each section (20) contains the SIPC video download along with
+Each section (20) contains the SICP video download along with
 code stubs and notes pertaining to the video lectures.  This
 may also include stubs and notes from the companion book.
 
@@ -28,6 +28,6 @@ to study this material.
 
 #### _Quick Links_
 
-+ [SIPC Book](http://sarabander.github.io/sicp/ "SICP BOOK")
-+ [SIPC VIDEO LECTURE SERIES AT HP](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/ "SICP VIDEO")
++ [SICP Book](http://sarabander.github.io/sicp/ "SICP BOOK")
++ [SICP VIDEO LECTURE SERIES AT HP](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/ "SICP VIDEO")
 
