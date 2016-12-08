@@ -8,7 +8,7 @@
     1. notes 
     2. code snippets 
     3. embedded video links 
-    4. other errata pertaining to SIPC
+    4. other errata pertaining to SICP
                                                                              
 ### _Organization Principles_                                                
 Each section (20) contains the SICP video download along with
