@@ -71,13 +71,30 @@ Chapter 1
 
 	+ tree accumulation as part of eval rule
 
-
-
         390______
        /  \      \
       |   |       15     
       *  26   / \ \ \
        / | \  + 3 5 7
        * 4 6
-       
 
+     2nd RULE
+- We take care of the primitive cases by stipulating that:
++ the values of numerals are the numbers that they name,
++ the values of built-in operators are the machine instruction sequences that carry out the corresponding operations, and
++ the values of other names are the objects associated with those names in the environment.  
+
++ symbols such as + and * are also included in the global environment, and are associated with the sequences of machine instructions that are their “values.”
+
++ special forms: define is included as it does not conform to eval rule above
+
+(define x 3)
+
+- Elements of language so far:
++Numbers and arithmetic operations are primitive data and procedures.
++Nesting of combinations provides a means of combining operations.
++Definitions that associate names with values provide a limited means of abstraction
+1.1.4
+    + procedure definitions:
+
+    (define (square x) (* x x))
