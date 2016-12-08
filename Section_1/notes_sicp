@@ -98,3 +98,29 @@ Chapter 1
     + procedure definitions:
 
     (define (square x) (* x x))
+
+    EXAMPLE (Compound Procedure)
+    (define (square x)    (*       x       x))
+      |      |      |      |       |       |
+     To square something, multiply it by itself.
+    (2 notions: procedure to multiply a thing by itself AND a name being given to the procedure)
+    + The procedure represents the operation of multiplying something by itself. The thing to be multiplied is given a local name, x, which plays the same role that a pronoun plays in natural language. Evaluating the definition creates this compound procedure and associates it with the name square
+
+    + The general form of a procedure definition is
+
+    (define (⟨name⟩ ⟨formal parameters⟩) ⟨body⟩)
+
+    (define (sum-of-squares x y)
+      (+ (square x) (square y)))
+
+     (sum-of-squares 3 4) ;=> 25
+
+     + Now we can use sum-of-squares as a building block in constructing further procedures:
+
+     (define (f a)       ;x       ;y
+       (sum-of-squares (+ a 1) (* a 2)))
+
+     (f 5) ;=>136
+
+     + Compound procedures are used in exactly the same way as primitive procedures. Indeed, one could not tell 
+     by looking at the definition of sum-of-squares given above whether square was built into the interpreter, like + and *, or defined as a compound procedure.
