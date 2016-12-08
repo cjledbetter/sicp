@@ -124,3 +124,37 @@ Chapter 1
 
      + Compound procedures are used in exactly the same way as primitive procedures. Indeed, one could not tell 
      by looking at the definition of sum-of-squares given above whether square was built into the interpreter, like + and *, or defined as a compound procedure.
+    
+     [Substitution Model]
+     (+ (* 6 6) (* 10 10))
+     which reduces by multiplication to
+     (+ 36 100)
+     and finally to
+     136
+
+     + The substitution model is only the first of these models—a way to get started thinking formally about the evaluation process.
+     
+     (sum-of-squares (+ 5 1) (* 5 2))
+
+     (+ (square (+ 5 1)) 
+        (square (* 5 2)))
+
+     (+ (* (+ 5 1) (+ 5 1)) 
+        (* (* 5 2) (* 5 2)))
+     followed by the reductions
+
+     (+ (* 6 6) 
+        (* 10 10))
+
+     (+ 36 100)
+
+     136
+1.15
+     + conditional
+
+     (define (abs x)
+       (cond ((> x 0) x)
+        ((= x 0) 0)
+        ((< x 0) (- x))))
+     + This alternative “fully expand and then reduce” evaluation method is known as normal-order evaluation,
+     in contrast to the “evaluate the arguments and then apply” method that the interpreter actually uses, which is called applicative-order evaluation.
