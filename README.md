@@ -24,7 +24,7 @@ to study this material.
 + [Structure and Interpretation of Computer Programs] (https://mitpress.mit.edu/sicp/ "SICP Homepage")
 + [Github HTML Project] (https://github.com/sarabander/sicp "HTML Project")
 + [Github Latex Project] (https://github.com/sarabander/sicp-pdf "Latex Project")
-+ [Lambda Vector Art](Photo via <a href="https://www.goodfreephotos.com/">Good Free Photos</a>)
++ [Lambda Vector Art](https://www.goodfreephotos.com "Good Free Photos")
 
 #### _Quick Links_
 
