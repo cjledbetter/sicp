@@ -32,3 +32,4 @@ to study this material.
 + [SICP VIDEO LECTURE SERIES AT HP](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/ "SICP VIDEO")
 + [Teach Yourself Scheme in Fixnum Days](http://ds26gte.github.io/tyscheme/ "FIXNUM BOOK")
 + [The Scheme Programming Language](http://www.scheme.com/tspl4/ "Dybvig BOOK")
+* [MIT/GNU Scheme Reference Manual] (http://www.gnu.org/software/mit-scheme/documentation/mit-scheme-ref.pdf "MIT/GNU REF")
