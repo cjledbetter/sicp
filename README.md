@@ -34,3 +34,4 @@ to study this material.
 + [The Scheme Programming Language](http://www.scheme.com/tspl4/ "Dybvig BOOK")
 + [MIT/GNU Scheme Reference Manual] (http://www.gnu.org/software/mit-scheme/documentation/mit-scheme-ref.pdf "MIT/GNU REF")
 + [Simply Scheme: Intro to Computer Science] (https://people.eecs.berkeley.edu/~bh/ss-toc2.html "Simply Scheme")
++ [Successful Lisp: How to Understand and Use Common Lisp] (https://github.com/cjledbetter/sicp/tree/master/lisp/sl/index.html "Successful Lisp")
