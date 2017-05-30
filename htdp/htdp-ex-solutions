@@ -1,0 +1,14 @@
+;;;; Excercise solutions
+
+;;; Ex. 1
+(define x 3)
+(define y 4)
+(sqrt (+ (* x x) (* y y)))
+
+;;; Ex. 8
+(define square1 (square 40 "solid" "blue"))
+(cond ((> (image-height square1) (image-width square1)) "tall")
+        ((< (image-height square1) (image-width square1)) "wide")
+        (else "square"))
+
+(if (> (image-height square1) (image-width square1)) "tall" "square")
