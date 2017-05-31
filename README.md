@@ -1,15 +1,15 @@
 <img align="right" src="https://github.com/cjledbetter/sipc/blob/master/img/final728-lambdars1.jpg">
 # SICP
 ### **Structure and Interpretation of Computer Programs (SICP) Notes**       
-                                                                             
+
 ## 	_Focus_                                                              
 **This is a personal git repository that holds**
-                                                                             
-    1. notes 
-    2. code snippets 
-    3. embedded video links 
+
+    1. notes
+    2. code snippets
+    3. embedded video links
     4. other errata pertaining to SICP
-                                                                             
+
 ### _Organization Principles_                                                
 Each section (20) contains the SICP video download along with
 code stubs and notes pertaining to the video lectures.  This
@@ -34,4 +34,5 @@ to study this material.
 + [The Scheme Programming Language](http://www.scheme.com/tspl4/ "Dybvig BOOK")
 + [MIT/GNU Scheme Reference Manual] (http://www.gnu.org/software/mit-scheme/documentation/mit-scheme-ref.pdf "MIT/GNU REF")
 + [Simply Scheme: Intro to Computer Science] (https://people.eecs.berkeley.edu/~bh/ss-toc2.html "Simply Scheme")
++ [How to Design Programs] (http://www.ccs.neu.edu/home/matthias/HtDP2e/ "HtDP2e")
 + [Successful Lisp: How to Understand and Use Common Lisp] (https://github.com/cjledbetter/sicp/tree/master/lisp/sl/index.html "Successful Lisp")
