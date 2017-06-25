@@ -36,3 +36,4 @@ to study this material.
 + [Simply Scheme: Intro to Computer Science] (https://people.eecs.berkeley.edu/~bh/ss-toc2.html "Simply Scheme")
 + [How to Design Programs] (http://www.ccs.neu.edu/home/matthias/HtDP2e/ "HtDP2e")
 + [Successful Lisp: How to Understand and Use Common Lisp] (https://github.com/cjledbetter/sicp/tree/master/lisp/sl/index.html "Successful Lisp")
++ [SICP: Berkley - CS61A] (http://wla.berkeley.edu/~cs61a/fa11/61a-python/content/www/index.html "SICP/BERKLEY/CS61A")
