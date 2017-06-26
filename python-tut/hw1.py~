@@ -1,0 +1,23 @@
+# Chris Ledbetter
+# CS 61A 2017
+# auditing class
+
+#ques. 1
+# from operator import add, sub
+# def a_plus_abs_b(a,b):
+#     """
+#     >>> a_plus_abs_b(2, 3)
+#     5
+#     >>> a_plus_abs_b(2,-3)
+#     5
+#     """
+
+#     if b < 0:
+#         f = sub
+#     else:
+#         f = add
+#     return f(a, b)
+
+#ques. 2
+def max_two(x, y, z):
+    return max(x*x+y*y, y*y+z*z, z*z+x*x)
